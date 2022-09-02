@@ -46,10 +46,8 @@
     height: 36px;
     padding-left: 10px;
     font-size: 16px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: gray;
     border-radius: 2px;
+    border: 1px solid gray;
     box-shadow: inset 1px 2px 5px rgba(0,0,0,0.05);
     width: 0;
 }
