@@ -1,9 +1,6 @@
-
-    
         .thumbnail{
             width: 100%;
-        }
-        
+        } 
         .video-title{
             margin-top: 0;
             font-size: 14px;
@@ -38,7 +35,6 @@
             column-gap: 16px;
             row-gap: 40px; 
         }
-
         @media (max-width:810px){
             .video-grid{
                 grid-template-columns: 1fr 1fr;
@@ -55,10 +51,7 @@
             .video-grid{
                 grid-template-columns: 1fr 1fr 1fr 1fr;
             }
-        }
-
-        
-
+        }    
         .video-time{
             font-family: Roboto,Arial;
             font-size: 12px;
